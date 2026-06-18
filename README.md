@@ -64,6 +64,5 @@ After this challenge, I'm planning to move into:
 
 ## Connect
 
-Feel free to follow my progress here, or reach out if you're doing a similar challenge!
 
 Feel free to follow my progress here, or reach out if you're doing a similar challenge!
