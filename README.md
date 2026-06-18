@@ -70,8 +70,4 @@ After this challenge, I'm planning to move into:
 
 Feel free to follow my progress here, or reach out if you're doing a similar challenge!
 
-
-
-## Connect
-
 Feel free to follow my progress here, or reach out if you're doing a similar challenge!
