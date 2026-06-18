@@ -10,10 +10,6 @@ I'm working through 30 days of focused, hands-on Python practice, one topic a da
 - **Goal:** Build genuine fluency in Python, then move into backend frameworks (FastAPI/Flask), SQL, and Docker
 - **Approach:** Theory first, then exercises, all solutions written by me
 
-## Structure
-
-Each day has its own folder, numbered and named after that day's topic:
-
 ## Topics Covered
 
 | Day | Topic |
