@@ -14,12 +14,10 @@ print(siblings)
 print(len(siblings))
 
 #5
-s=list[siblings]
-s[0]="mr.manohar"
-s[1]="mrs.shakuntala"
-family=tuple(s)
+parents_list = ["mr.manohar", "mrs.shakuntala"]
+siblings_list = list(siblings)
+family = (*parents_list , *siblings_list)
 print(family)
-
 
 #level 2
 #1
@@ -38,7 +36,7 @@ food_stuff_tp=fruits+vegetables+animal_products
 print(food_stuff_tp)
 
 #3
-food_stuff_lt=list[food_stuff_tp]
+food_stuff_lt=list(food_stuff_tp)
 print(food_stuff_lt)
 
 #4
