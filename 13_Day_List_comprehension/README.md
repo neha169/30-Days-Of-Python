@@ -49,3 +49,4 @@
    ```
 7. Write a lambda function which can solve a slope or y-intercept of linear functions.
 
+
